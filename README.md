@@ -5,5 +5,9 @@ This project is the first of many to showcase my knowledge of Javascript. You ca
 to view the project on your local code editor (I use VS code). 
 
 1. Clone the repository. [How to clone repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
-2. Open your code editor (I'm using VS Code) 
+2. Open your code editor (I'm using VS Code)
+3. Left click on "index.htm" and select copy path
+4. Open your desired browser (I'm using Google chrome)
+5. Paste the path on your browser
+6. Have fun! 
 
